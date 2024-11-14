@@ -1,6 +1,6 @@
-# Breakless
+# Brakeless
 
-A grid-based 2D puzzle game built with Python and Pygame. Breakless features customizable levels, particle effects, and responsive keyboard controls, creating a simple yet engaging gameplay experience.
+A grid-based 2D puzzle game built with Python and Pygame. Brakeless features customizable levels, particle effects, and responsive keyboard controls, creating a simple yet engaging gameplay experience.
 
 ## **Features**
 
@@ -20,7 +20,7 @@ A grid-based 2D puzzle game built with Python and Pygame. Breakless features cus
 2. **Run the Game**:
 
     ```bash
-    python breakless.py
+    python brakeless.py
     ```
 ## **Usage**
 - Keyboard Controls:
